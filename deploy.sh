@@ -1,0 +1,1 @@
+pod repo push github-speces BasicFoundation --allow-warnings
